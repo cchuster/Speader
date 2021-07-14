@@ -1,0 +1,1 @@
+this is a sentence and we want to read from it word by word
