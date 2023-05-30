@@ -4,4 +4,4 @@ Modeled after the proprietary Word Runner feature offered by Amazon Kindle, Spea
 ----
 
 ## Image Preview
-![alt text](https://github.com/cchuster/Speader/blob/main/preview.png?raw=true)
+![alt text](https://github.com/cchuster/Speader/blob/master/speader.png)
